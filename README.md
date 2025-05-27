@@ -15,7 +15,7 @@ Sou **Wendel Neres**, Desenvolvedor Back-End com foco em **Java e Spring Boot**.
 
 ## 🚀 Tecnologias em Estudo no Momento
 
-<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,java,c++,arduino" />
+<img src="https://skillicons.dev/icons?i=spring,mysql,postgres,java,cplusplus,arduino" />
 
 ---
 
