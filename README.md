@@ -11,7 +11,7 @@
  ##
 
  ### Studying in this moment:
-<img src="https://skillicons.dev/icons?i=spring,SQL,MySql,Postgres,java,c++,arduino" /><br>
+<img src="https://skillicons.dev/icons?i=spring,sql,mysql,postgres,java,c++,arduino" /><br>
 
 ##
 
